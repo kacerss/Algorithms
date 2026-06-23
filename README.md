@@ -1,2 +1,2 @@
 # LabsCCP
-A collection of my labs done at the Community College of Philadelphia. Mostly Data Structures &amp; Algorithms
+Java data structures and algorithms implementations from CS coursework, including lists, maps, trees, queues, sorting, and unit-tested exercises.
